@@ -1,0 +1,8 @@
+Collecting pillow
+  Downloading pillow-12.3.0-cp310-cp310-win_amd64.whl (7.2 MB)
+     ---------------------------------------- 7.2/7.2 MB 46.8 kB/s eta 0:00:00
+Collecting tkinterdnd2
+  Downloading tkinterdnd2-0.6.3-py3-none-any.whl (816 kB)
+     ------------------------------------- 816.6/816.6 kB 53.6 kB/s eta 0:00:00
+Collecting pyinstaller
+  Downloading pyinstaller-6.22.3-py3-none-win_amd64.whl (1.5 MB)

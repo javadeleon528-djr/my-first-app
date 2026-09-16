@@ -1,0 +1,5 @@
+{
+  "remote_api_url": "https://your-model-server.example/api/v1/segment",
+  "local_model_path": "",
+  "result_directory": "D:\\Download"
+}
